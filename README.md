@@ -56,10 +56,6 @@ Multiplayer Mode: Challenge your friends in real-time snake battles.
 
 Global Leaderboard: Compete with players worldwide and establish yourself as the ultimate Snake Game Master.
 
-_**Contribution**_
-
-
-I welcome contributions to enhance the game further! To contribute, fork the repository and submit a pull request with your proposed changes.
 
 _**License and Credit:**_
 

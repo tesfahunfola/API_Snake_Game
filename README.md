@@ -15,7 +15,6 @@ Growth Challenge: Help the snake grow longer with each meal, increasing the diff
 
 Vibrant Graphics: Enjoy sleek and colorful graphics that enhance the visual appeal of the game.
 
-Multiple Environments: Play across a variety of environments, from grassy fields to icy tundras, each with its own challenges.
 
 #_**Technologies Used**_
 

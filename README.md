@@ -46,7 +46,7 @@ Grow the snake to achieve higher scores and unlock new levels.
 
 
 Gameplay demo Video
-[Include a link to a video demonstration of the gameplay]
+
 
 # **Future Enhancements**
 

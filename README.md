@@ -1,7 +1,7 @@
 # **SNAKE GAME PROJECT**
 Snake Game App Demo
 
-#_**Description**_
+# _**Description**_
 
 
 Snake Game App is a classic and addictive gaming app that brings back the nostalgia of the iconic snake game in a modern and engaging way. Test your reflexes and strategic skills as you guide the snake to collect food and grow while avoiding obstacles.

@@ -1,4 +1,4 @@
-# **snake_game_project**
+# **SNAKE GAME PROJECT**
 Snake Game App Demo
 
 _**Description**_

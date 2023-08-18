@@ -1,12 +1,12 @@
 # **SNAKE GAME PROJECT**
 Snake Game App Demo
 
-# **Description**_
+# **Description**
 
 
 Snake Game App is a classic and addictive gaming app that brings back the nostalgia of the iconic snake game in a modern and engaging way. Test your reflexes and strategic skills as you guide the snake to collect food and grow while avoiding obstacles.
 
-# **Features**_
+# **Features**
 
 
 Intuitive Controls: Navigate the snake with simple swipe gestures for an immersive gameplay experience.
@@ -16,14 +16,14 @@ Growth Challenge: Help the snake grow longer with each meal, increasing the diff
 Vibrant Graphics: Enjoy sleek and colorful graphics that enhance the visual appeal of the game.
 
 
-# **Technologies Used**_
+# **Technologies Used**
 
 
 Frontend: HTML, CSS, JavaScript
 
 Deployment: Github Pages
 
-# **How to Play**_
+# **How to Play**
 
 
 Open the app in your browser.
@@ -34,7 +34,7 @@ Guide the snake to eat the food while avoiding collisions with walls and its own
 
 Grow the snake to achieve higher scores and unlock new levels.
 
-# **Screenshots**_
+# **Screenshots**
 
 
 ![image](https://github.com/tesfahunfola/Playing-Around-with-APIs/assets/122350783/e46e7758-6e65-4d73-ab45-f33cbfaac9d6)
@@ -48,7 +48,7 @@ Grow the snake to achieve higher scores and unlock new levels.
 Gameplay demo Video
 [Include a link to a video demonstration of the gameplay]
 
-# **Future Enhancements**_
+# **Future Enhancements**
 
 
 Multiplayer Mode: Challenge your friends in real-time snake battles.
@@ -56,7 +56,7 @@ Multiplayer Mode: Challenge your friends in real-time snake battles.
 Global Leaderboard: Compete with players worldwide and establish yourself as the ultimate Snake Game Master.
 
 
-# **License and Credit:**_
+# **License and Credit:**
 
 
 RapidAPI

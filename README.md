@@ -21,20 +21,25 @@ _**Technologies Used**_
 
 
 Frontend: HTML, CSS, JavaScript
+
 Deployment: Github Pages
 
 _**How to Play**_
 
 
 Open the app in your browser.
+
 Launch the game and swipe in the direction you want the snake to move.
+
 Guide the snake to eat the food while avoiding collisions with walls and its own tail.
+
 Grow the snake to achieve higher scores and unlock new levels.
 
 _**Screenshots**_
 
 
-![image](https://github.com/tesfahunfola/Playing-Around-with-APIs/assets/122350783/3c6568ec-0b05-4675-9354-01fe4f6ea428)
+![image](https://github.com/tesfahunfola/Playing-Around-with-APIs/assets/122350783/e46e7758-6e65-4d73-ab45-f33cbfaac9d6)
+
 
 
 
@@ -48,6 +53,7 @@ _**Future Enhancements**_
 
 
 Multiplayer Mode: Challenge your friends in real-time snake battles.
+
 Global Leaderboard: Compete with players worldwide and establish yourself as the ultimate Snake Game Master.
 
 _**Contribution**_
